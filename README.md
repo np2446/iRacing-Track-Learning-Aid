@@ -41,6 +41,7 @@ Each JSON file should follow this format:
    - The script will prompt you to select a track from the available JSON files in the `track_jsons` directory.
 
 3. **Drive on iRacing**:
+    - Load into an iRacing session (test drive recommended)
     - The script will continuously check the current sector based on your track percentage in iRacing.
     - If you are approaching a sector, it will print the approaching sector's name.
 
