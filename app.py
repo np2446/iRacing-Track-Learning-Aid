@@ -18,9 +18,6 @@ def get_json_files(directory: str) -> list:
     """
     return [f for f in os.listdir(directory) if f.endswith('.json')]
 
-import os
-import json
-
 def load_json_file(directory: str, filename: str) -> dict:
     """
     Load a JSON file from the specified directory.
