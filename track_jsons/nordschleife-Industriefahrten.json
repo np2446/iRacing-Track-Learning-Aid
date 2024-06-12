@@ -1,0 +1,144 @@
+{
+    "Sectors": {
+        "Hatzenbach": {
+            "start": 0.0,
+            "end": 0.065
+        },
+        "Hocheichen": {
+            "start": 0.065,
+            "end": 0.077
+        },
+        "Quiddelbacher Höhe": {
+            "start": 0.077,
+            "end": 0.1
+        },
+        "Flugplatz": {
+            "start": 0.1,
+            "end": 0.12
+        },
+        "Schwedenkreuz": {
+            "start": 0.166,
+            "end": 0.178
+        },
+        "Aremberg": {
+            "start": 0.178,
+            "end": 0.193
+        },
+        "Fuchsröhre": {
+            "start": 0.193,
+            "end": 0.21895
+        },
+        "Adenauer Forst": {
+            "start": 0.24,
+            "end": 0.258
+        },
+        "Metzgesfeld": {
+            "start": 0.258,
+            "end": 0.3
+        },
+        "Kallenhard": {
+            "start": 0.308,
+            "end": 0.35
+        },
+        "Wehrseifen": {
+            "start": 0.35,
+            "end": 0.364
+        },
+        "Breidscheid": {
+            "start": 0.364,
+            "end": 0.382
+        },
+        "Ex-Mühle": {
+            "start": 0.388,
+            "end": 0.397
+        },
+        "Lauda-Links": {
+            "start": 0.41,
+            "end": 0.42
+        },
+        "Bergwerk": {
+            "start": 0.42,
+            "end": 0.43
+        },
+        "Kesselchen": {
+            "start": 0.46,
+            "end": 0.5
+        },
+        "Klostertal": {
+            "start": 0.508,
+            "end": 5.4
+        },
+        "Steilstrecke": {
+            "start": 5.49,
+            "end": 5.69
+        },
+        "Karussell": {
+            "start": 5.69,
+            "end": 5.87
+        },
+        "Hohe Acht": {
+            "start": 0.061,
+            "end": 0.631
+        },
+        "Hedwigshöhe": {
+            "start": 0.631,
+            "end": 0.638
+        },
+        "Wippermann": {
+            "start": 0.638,
+            "end": 0.657
+        },
+        "Eschbach": {
+            "start": 0.657,
+            "end": 0.674
+        },
+        "Brünnchen": {
+            "start": 0.674,
+            "end": 0.698
+        },
+        "Eiskurve": {
+            "start": 0.698,
+            "end": 0.714
+        },
+        "Pflanzgarten": {
+            "start": 0.714,
+            "end": 0.769
+        },
+        "Stefan-Bellof-S": {
+            "start": 0.769,
+            "end": 0.783
+        },
+        "Schwalbenschwanz": {
+            "start": 0.783,
+            "end": 0.81
+        },
+        "Kleines Karussell": {
+            "start": 0.81,
+            "end": 0.819
+        },
+        "Galgenkopf": {
+            "start": 0.826,
+            "end": 0.85
+        },
+        "Döttinger Höhe": {
+            "start": 0.85,
+            "end": 0.942
+        },
+        "Antoniusbuche": {
+            "start": 0.942,
+            "end": 0.961
+        },
+        "Tiergarten": {
+            "start": 0.961,
+            "end": 0.983
+        },
+        "Hohenrain": {
+            "start": 0.983,
+            "end": 0.994
+        },
+        "T13": {
+            "start": 0.994,
+            "end": 1.0
+        }
+    }
+}
