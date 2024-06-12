@@ -2,8 +2,6 @@ import os
 import json
 import pyirsdk
 
-import os
-
 class State:
     ir_connected = False
 
