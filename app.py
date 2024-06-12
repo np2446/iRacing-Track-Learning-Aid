@@ -1,6 +1,6 @@
 import os
 import json
-import pyirsdk
+import irsdk
 
 class State:
     ir_connected = False
@@ -151,7 +151,7 @@ def main():
     
     lookup = preprocess_sectors(sectors)
 
-    ir = pyirsdk.IRSDK()
+    ir = irsdk.IRSDK()
     state = State()
 
     try:
